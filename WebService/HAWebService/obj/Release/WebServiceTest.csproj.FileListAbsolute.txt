@@ -1,0 +1,5 @@
+C:\Users\Think\Desktop\WebServiceTest\WebServiceTest\bin\WebServiceTest.dll
+C:\Users\Think\Desktop\WebServiceTest\WebServiceTest\bin\WebServiceTest.pdb
+C:\Users\Think\Desktop\WebServiceTest\WebServiceTest\obj\Release\WebServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Think\Desktop\WebServiceTest\WebServiceTest\obj\Release\WebServiceTest.dll
+C:\Users\Think\Desktop\WebServiceTest\WebServiceTest\obj\Release\WebServiceTest.pdb

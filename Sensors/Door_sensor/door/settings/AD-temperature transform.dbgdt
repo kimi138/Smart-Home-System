@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>516</ColumnWidth1><ColumnWidth2>137</ColumnWidth2><ColumnWidth3>34</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>140</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats><Fmt><Key>{W}Watch-0:Gas_Value</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:value</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:valueH</Key><Value>4</Value></Fmt></watch_formats></Format><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch><Register/></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-559-11081</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-36-11091</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11307-11085</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>AD-temperature transform</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22055-11088</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd8><Tabs><Tab><Identity>TabID-4088-9239</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>Gas_Value</Expression></Expression><Expression><Expression>valueH</Expression></Expression><Expression><Expression>value</Expression></Expression><Expression><Expression>send_msg</Expression></Expression></Expressions><TabId>0</TabId><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd8><Wnd9><Tabs><Tab><Identity>TabID-24083-2766</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>11</Group><States>0</States></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd9></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\IOT\CC2531\&#x95e8;&#x78C1;\code\2531 entrance guard\main.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>474</SelStart><SelEnd>474</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3 Evaluation version\8051\INC\ioCC2530.h</Filename><XPos>0</XPos><YPos>122</YPos><SelStart>5354</SelStart><SelEnd>5354</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01388738><key>iaridepm.enu1</key></Toolbar-01388738></Sizes></Row0><Row1><Sizes><Toolbar-08621160><key>debuggergui.enu1</key></Toolbar-08621160></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>379</Bottom><Right>214</Right><x>-2</x><y>-2</y><xscreen>343</xscreen><yscreen>186</yscreen><sizeHorzCX>267969</sizeHorzCX><sizeHorzCY>294304</sizeHorzCY><sizeVertCX>168750</sizeVertCX><sizeVertCY>602848</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>379</Bottom><Right>140</Right><x>-2</x><y>-2</y><xscreen>343</xscreen><yscreen>186</yscreen><sizeHorzCX>267969</sizeHorzCX><sizeHorzCY>294304</sizeHorzCY><sizeVertCX>110938</sizeVertCX><sizeVertCY>602848</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd8><Rect><Top>-2</Top><Left>138</Left><Bottom>379</Bottom><Right>267</Right><x>138</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>316456</sizeHorzCY><sizeVertCX>100781</sizeVertCX><sizeVertCY>602848</sizeVertCY></Rect></Wnd8></Sizes></Row1><Row2><Sizes><Wnd9><Rect><Top>-2</Top><Left>265</Left><Bottom>379</Bottom><Right>412</Right><x>265</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>316456</sizeHorzCY><sizeVertCX>114844</sizeVertCX><sizeVertCY>602848</sizeVertCY></Rect></Wnd9></Sizes></Row2></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>184</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>186</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>294304</sizeHorzCY><sizeVertCX>267969</sizeVertCX><sizeVertCY>294304</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
